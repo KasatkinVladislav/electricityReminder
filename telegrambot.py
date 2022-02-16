@@ -33,7 +33,7 @@ while true:
     if datetime.date.today().day = 1:
         alreadyDid = false
     if datetime.date.today().day >= numOfTheDay and alreadyDid = false:    
-        bot.send_message(message.chat.id, 'Братишка, от души, передай показания')
+        bot.send_message(message.chat.id, 'Дружище, от души, передай показания')
         time.sleep(12000)
 
     
